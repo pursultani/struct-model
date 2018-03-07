@@ -1,0 +1,6 @@
+= StructModel: Structured Data Model
+Hossein Pursultani<hossein@freshbits.io>
+v1.0.1 - 2018
+
+An open data structure, similar to Ruby OpenStruct, with optional type checking,
+validation, and JSON mapping.

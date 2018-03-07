@@ -2,5 +2,16 @@
 Hossein Pursultani<hossein@freshbits.io>
 v1.0.1 - 2018
 
+:pybuilder: https://pybuilder.github.io/
+
 An open data structure, similar to Ruby OpenStruct, with optional type checking,
 validation, and JSON mapping.
+
+
+== Development
+
+  1. Setup the virtual environment in `.env` directory, i.e. `virtualenv .env`. 
+  2. This library uses {pybuilder}[PyBuilder] as its primary build tool. Install
+     it using `pip install pybuilder`.
+  3. Run the build script simply by running PyBuilder, i.e. `pyb`.
+  4. See the `build.py` build script for details.

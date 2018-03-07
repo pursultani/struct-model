@@ -1,0 +1,133 @@
+#
+# Mac OS
+#
+
+*.DS_Store
+# Icon (ends with two \r)
+Icon
+._*
+
+
+#
+# Windows
+#
+
+Thumbs.db
+Desktop.ini
+*.lnk
+
+
+#
+# Linux
+#
+
+*~
+.directory
+
+
+#
+# Eclipse
+#
+
+tmp/
+.settings/
+.metadata
+.loadpath
+local.properties
+*.tmp
+*.bak
+*.swp
+.project
+.classpath
+
+
+#
+# JetBrains
+#
+
+.idea/
+*.iws
+*.iml
+out/
+
+
+#
+# Archives
+#
+
+*.7z
+*.jar
+*.war
+*.rar
+*.zip
+*.gz
+*.tgz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.cab
+
+# Packing formats
+*.iso
+*.tar
+
+# Package management formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+
+#
+# Runtime
+#
+
+# Log files
+logs
+*.log*
+*.out
+*.err
+
+# Processes
+*.pid
+*.seed
+*.lock
+
+
+#
+# Python
+#
+
+# Compiled and optimized binaries
+*.py[cod]
+*.egg
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Package manager locks
+yarn.lock
+package-lock.json
+
+#
+# Build 
+#
+
+build/
+target/
+dist/
+.pybuild
+.coverage
